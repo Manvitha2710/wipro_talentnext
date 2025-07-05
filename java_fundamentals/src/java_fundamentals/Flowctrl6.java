@@ -1,6 +1,6 @@
 package java_fundamentals;
 
-public class Question10 {
+public class Flowctrl6 {
 
 	public static void main(String[] args) {
 		char ch='M';

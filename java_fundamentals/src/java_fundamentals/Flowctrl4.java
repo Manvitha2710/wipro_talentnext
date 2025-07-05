@@ -1,6 +1,6 @@
 package java_fundamentals;
 
-public class Question8 {
+public class Flowctrl4 {
 
 	public static void main(String[] args) {
 		 if (args.length == 0) {

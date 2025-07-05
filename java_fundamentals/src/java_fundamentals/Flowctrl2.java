@@ -1,6 +1,6 @@
 package java_fundamentals;
 import java.util.Scanner;
-public class Question6 {
+public class Flowctrl2 {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
 		System.out.print("Enter first non negative number");
